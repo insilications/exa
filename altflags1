@@ -1,0 +1,6 @@
+unset CFLAGS
+unset CXXFLAGS
+unset FCFLAGS
+unset FFLAGS
+unset CFFLAGS
+unset LDFLAGS
